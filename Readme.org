@@ -1,11 +1,9 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:58:22.720720
-#+TITLE: 華嚴經綸貫
-#+PROPERTY: CBETA_ID X03n0220
-#+PROPERTY: ID KR6e0118
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 03, No. 220
-#+PROPERTY: VOL 03
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 華嚴經綸貫 / master
+#+DATE: 2015-11-26 14:19:21.731001
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0118_X_000-0566b>
+* 目次
+* 卷
+** [[file:KR6e0118_001.txt][華嚴經綸貫 1]]
