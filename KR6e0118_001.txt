@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-09-28 22:58:22.735952
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:18
 #+TITLE: 華嚴經綸貫
 #+PROPERTY: CBETA_ID X03n0220
 #+PROPERTY: ID KR6e0118
